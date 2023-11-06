@@ -1,5 +1,5 @@
 {
-  "name": "1ia",
+  "name": "oneArray",
   "version": "1.0.0",
   "description": "1 indexed arrays. Don't kill me this wasn't my idea",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fyleto/1ia.git"
+    "url": "git+https://github.com/fyleto/oneArray.git"
   },
   "keywords": [
     "array"
@@ -16,7 +16,7 @@
   "author": "YetNT",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fyleto/1ia/issues"
+    "url": "https://github.com/fyleto/oneArray/issues"
   },
-  "homepage": "https://github.com/fyleto/1ia#readme"
+  "homepage": "https://github.com/fyleto/oneArray#readme"
 }
