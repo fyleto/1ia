@@ -1,6 +1,6 @@
 {
   "name": "@fyleto/onearray",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "1 indexed arrays. Don't kill me this wasn't my idea",
   "main": "index.js",
   "scripts": {
