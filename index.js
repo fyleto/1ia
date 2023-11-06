@@ -1,11 +1,15 @@
-class 1ia {
-	constructor(...arr) {
-		let arr = [...arr]
-	}
+class oneArray {
+    constructor(...arr) {
+        this.arr = [...arr];
+    }
 
-	pos(num) {
-		this.arr[num - 1]
-	}
+    pos(num) {
+        return this.arr[num - 1];
+    }
+
+    set(pos, val) {
+        this.arr[pos - 1] = val;
+    }
 }
 
-module.exports = 1ia
+module.exports = oneArray;
