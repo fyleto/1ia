@@ -5,13 +5,13 @@ I have a slight feeling this may become one of the most controversial packages o
 # Install
 
 ```sh
-npm i oneArray
-yarn add oneArray
+npm i @fyleto/oneArray
+yarn add @fyleto/oneArray
 ```
  # Use
 
  ```js
-const oneArray = require("oneArray")
+const oneArray = require("@fyleto/oneArray")
 
 let a = new oneArray("hey", "how are you?", 239)
 
@@ -20,4 +20,5 @@ a.pos(1) // "hey"
 a.set(3, 134) // sets element 3 (element 2 if you're a normal javascript user) to 134
 ```
 
-I'm aplogize for my severe mistake
+I aplogize for my severe mistake
+but then again, you are commiting to the joke.
